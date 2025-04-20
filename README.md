@@ -6,7 +6,7 @@
 1. Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian Apache
 klik Config -> PHP.ini
 
-![Screenshot 2025-03-21 123847](https://github.com/user-attachments/assets/b8ba7a44-51a2-4c61-949f-abae1f2d7e90)
+![image](https://github.com/user-attachments/assets/b1ccb9f3-523f-4805-883b-5ef294cc4eef)
 
 
 2. Pada bagian extention, hilangkan tanda ; (titik koma) pada ekstensi yang akan diaktifkan.
