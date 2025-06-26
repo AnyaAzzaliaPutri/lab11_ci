@@ -1,8 +1,10 @@
+13333333222223
 | Nama                    | NIM        | Kelas   | Matkul            |
 |-------------------------|------------|---------|-------------------|
 | Anya Azzalia Putri | 312310183  | TI.23.A4| Pemrograman Web 2 |
 
 
+Praktikum 1 - 6
 1. Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian Apache
 klik Config -> PHP.ini
 
